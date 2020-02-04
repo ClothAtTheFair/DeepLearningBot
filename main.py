@@ -98,7 +98,7 @@ def chat():
     print("Start talking with the bot (type quit to stop)!")
     while True:
         #Using 2.7 raw_input is needed else use input
-        inp = raw_input("You: ")
+        inp = input("You: ")
         if inp.lower() == "quit":
             break
 

@@ -1,0 +1,7 @@
+nltk
+numpy
+tflearn
+tensorflow
+random
+json
+pickle
