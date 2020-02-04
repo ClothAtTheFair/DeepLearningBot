@@ -10,7 +10,7 @@
          "context_set": ""
         },
         {"tag": "age",
-         "patterns": ["how old", "how old is tim", "what is your age", "how old are you", "age?"],
+         "patterns": ["how old", "how old is Bradley", "what is your age", "how old are you", "age?"],
          "responses": ["I am 24 years old!", "24 years young!"],
          "context_set": ""
         },
@@ -20,13 +20,18 @@
          "context_set": ""
         },
         {"tag": "education",
-         "patterns": ["Where did you go to school?", "What is your education?", "Do you have an degrees?", "could i get something to eat"],
+         "patterns": ["Your education", "Where did you go to school?", "What is your education?", "Do you have an degrees?", "could i get something to eat"],
          "responses": ["For undergrad I went to University of South Carolina and got a BS in Mecanical Engineering with a concentration in Computer Science", "I have a BS in Mechanical Engineering from UofSC with ambitions of a PhD in Computer Science!"],
          "context_set": ""
         },
         {"tag": "projects",
          "patterns": ["what are you working on?", "what are you learning", "any new projects?"],
          "responses": ["I am working on a bunch of projects mostly focused on automation. Check out the projects page for more!", "There is almost a new project every month on my journey to being a great software engineering so make sure to stay updated on my GitHub and project page!"],
+         "context_set": ""
+        },
+        {"tag": "misfortune",
+         "patterns": ["Ahh", "Why me", "ahhhhhhhhhh", "oof", "trouble always finds me"],
+         "responses": ["Yikes Forever"],
          "context_set": ""
         }
    ]
