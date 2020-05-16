@@ -10,10 +10,10 @@ This bot is being designed to help answers questions about myself and my website
 
 # Tech Stack and Libraries Used:
 
-Python
-JSON
-Natural Language Toolkit
-Tflearn
-Tensorflow
-Numpy
+Python<br />
+JSON<br />
+Natural Language Toolkit<br />
+Tflearn<br />
+Tensorflow<br />
+Numpy<br />
 Pickle
