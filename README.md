@@ -5,3 +5,13 @@
 Brought on by a recommended YouTube video, this is a deep learning chat bot inspired by Tech with Tim's tutorials (https://www.youtube.com/watch?v=wypVcNIH6D4).
 
 This bot is being designed to help answers questions about myself and my website when it is integrated into my website.
+
+#Tech Stack and Libraries Used:
+
+Python
+JSON
+Natural Language Toolkit
+Tflearn
+Tensorflow
+Numpy
+Pickle
